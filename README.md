@@ -1,0 +1,2 @@
+# ZQMonitor
+s.dependency 'AFNetworking','FMDatabase','ComboBox','SDWebImageSample','KTPhotoBrowser','libPwdEncrypt','DXPopover','MPNotificationView','OBGradientView','JSBadgeView','MJRefresh','libqrencode','GCDAsyncUpdSocket','IDJPickerView','YLLabel','SVPullToRefresh','Toast','MBProgressHUD'代码为MRC,需要包含框架'Foundation', 'CoreGraphics', 'UIKit','OpenGLES','OpenAL','MediaToolbox','MediaPlayer','AVFoundation','CoreVideo','CoreMedia','CoreAudio','QuartzCore','SystemConfiguration','libstdc++.6.0.9.tdb'.
