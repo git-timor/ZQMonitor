@@ -1,0 +1,22 @@
+{
+  "name": "ZQMonitor",
+  "version": "0.1.0",
+  "summary": "A short description of ZQMonitor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/ZQMonitor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZQ": "1163018319@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/ZQMonitor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZQMonitor/Classes/**/*"
+}

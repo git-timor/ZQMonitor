@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZQMonitor_Example' do
+  pod 'ZQMonitor', :path => '../'
+
+  target 'ZQMonitor_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

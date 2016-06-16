@@ -1,0 +1,6 @@
+framework module ZQMonitor {
+  umbrella header "ZQMonitor-umbrella.h"
+
+  export *
+  module * { export * }
+}

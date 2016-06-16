@@ -1,0 +1,16 @@
+PODS:
+  - ZQMonitor (0.1.0)
+
+DEPENDENCIES:
+  - ZQMonitor (from `../`)
+
+EXTERNAL SOURCES:
+  ZQMonitor:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZQMonitor: 82091106d65eee33aacc1b6ad97ade18e5ef2bec
+
+PODFILE CHECKSUM: 68a9dac9f8b3853e85b7886a30f1e6a859af2164
+
+COCOAPODS: 1.0.1
